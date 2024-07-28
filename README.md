@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My skills
+### What I like doing
 
-I'm a software developer specializing in the front end, the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. I develop software primarily with:
+I'm a software developer specializing in the front end, the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. I build front-end websites from scratch using&hellip;
 - React
 - TypeScript/JavaScript
 - CSS (and Sass)
 - HTML
 
-### What I like doing
+### What I also like doing
 
-With a background in art and design I enjoy working directly with UX designers and sharing a common visual language with them. Having recently taught Advanced UX/UI at the University of Massachusetts Dartmouth for the school's 2024 spring semester I'm continuing my explorations in front-end web development. Visit my [code portfolio site](https://alect.me).
+With a background in art I can make design elements and website prototypes myself or collaborate directly with UX designers. Having recently taught Advanced UX/UI at the University of Massachusetts Dartmouth I'm continuing my explorations in software development. Visit my [code portfolio site](https://alect.me).
