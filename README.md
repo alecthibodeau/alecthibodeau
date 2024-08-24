@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### What I like doing
 
-I'm a software developer specializing in the front end, the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. I build front-end websites from scratch using&hellip;
+I'm a software developer and a visual artist. My specialty is front-end web development, focusing on the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. My favorite technology tools are&hellip;
 - React
 - TypeScript/JavaScript
 - CSS (and Sass)
@@ -25,4 +25,4 @@ I'm a software developer specializing in the front end, the user experience (UX)
 
 ### What I also like doing
 
-With a background in art I can make design elements and website prototypes myself or collaborate directly with UX designers. Having recently taught Advanced UX/UI at the University of Massachusetts Dartmouth I'm continuing my explorations in software development. Visit my [code portfolio site](https://alect.me).
+I can craft design elements and website prototypes myself or collaborate directly with UX designers. Having recently taught Advanced UX/UI at the University of Massachusetts Dartmouth I'm continuing my explorations in software development. Visit my [code portfolio site](https://alect.me).
