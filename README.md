@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 ### What I like doing
 
-I'm a software developer and a visual artist. My specialty is front-end web development, focusing on the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. My favorite technology tools are&hellip;
-- React
-- TypeScript/JavaScript
-- CSS (and Sass)
-- HTML
+I'm a software developer and a visual artist. My specialty is front-end web development, focusing on the user experience (UX), user interfaces (UI), digital accessibility and responsive web design. My favorite technology tools are React, TypeScript, JavaScript, CSS and HTML.
 
 ### What I also like doing
 
