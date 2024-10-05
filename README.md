@@ -21,4 +21,4 @@ I'm a software developer and a visual artist, focusing on front-end web developm
 
 ### What I also like doing
 
-I'm happy to craft design elements and website prototypes myself or collaborate directly with UX designers. Having recently taught Advanced UX/UI at the University of Massachusetts Dartmouth I'm continuing my explorations in software development. Visit my portfolio site: [alect.me](https://alect.me).
+I'm happy to craft design elements and website prototypes myself or collaborate directly with UX designers. Having recently lectured at the University of Massachusetts Dartmouth I'm continuing my explorations in software development. Visit my portfolio site: [alect.me](https://alect.me).
